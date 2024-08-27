@@ -17,3 +17,7 @@ So installierst du **Projektname** auf deinem lokalen System:
 1. Klone das Repository:
    ```bash
    git clone https://github.com/dein-username/projektname.git
+
+2. Umschalten des Branches
+   ```bash
+   git switch main
